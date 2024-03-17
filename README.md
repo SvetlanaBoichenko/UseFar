@@ -25,4 +25,6 @@ Far Manager позволяетпросматривать и редактиров
 
 ## Документация
 В руководстве пользователя файлового менеджера Far, которое можно посмотреть по ссылке ниже, описаны принципы работы, команды, полезные сведения.
-[Руководство](https://documentation.help/Far-Manager-ru/documentation.pdf)]
+
+[Руководство](https://documentation.help/Far-Manager-ru/documentation.pdf)
+
